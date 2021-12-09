@@ -1,0 +1,6 @@
+Nombre: German
+Nota_1: 20
+Nota_2: 18
+Promedio: 19.0
+Aprobado: True
+La fecha actual es: 2021/12/07
